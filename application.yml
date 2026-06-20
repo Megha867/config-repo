@@ -1,2 +1,4 @@
 jwt:
   secret: a8df73hF9s9s8df9sdf89sdf89sdf98sdf98sd
+app:
+  name: application
